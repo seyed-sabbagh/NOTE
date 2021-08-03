@@ -1,0 +1,67 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId 'com.seyed.note'
+        minSdkVersion 23
+        targetSdkVersion 30
+        multiDexEnabled true
+        versionCode 2
+        versionName "1.0.2"
+        resConfig "en"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    //Google Material Design
+    implementation 'com.google.android.material:material:1.5.0-alpha01'
+
+    //In-App updates
+    implementation 'com.google.android.play:core:1.10.0'
+
+    //Room (for database)
+    def room_version = "2.3.0"
+    implementation "androidx.room:room-runtime:$room_version"
+    annotationProcessor "androidx.room:room-compiler:$room_version"
+
+    //Scalable Size Unit (support for different screen sizes)
+    implementation "com.intuit.sdp:sdp-android:1.0.6"
+    implementation "com.intuit.ssp:ssp-android:1.0.6"
+
+    //Third Party Libraries
+    implementation 'com.shreyaspatil:MaterialDialog:2.1'                   //MaterialDialog Library
+    implementation 'com.airbnb.android:lottie:3.6.1'                       //Lottie Animations Library
+    implementation 'com.github.hajiyevelnur92:intentanimation:1.0'         //IntentAnimation Library
+    implementation "com.makeramen:roundedimageview:2.3.0"                  //RoundImageView Library
+    implementation 'com.github.hotchemi:android-rate:1.0.1'                //RateMe Library
+    implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0'       //KeyboardVisibilityEvent Library
+    implementation 'com.tapadoo.android:alerter:2.0.4'                     //Alerter Library
+    implementation 'com.github.bumptech.glide:glide:4.11.0'                //Glide Library
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'com.github.dhaval2404:imagepicker:1.7.1'               //ImagePicker Library
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.5.10"             //Kotlin Standard Library
+}

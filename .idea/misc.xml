@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout-hdpi/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout-mdpi/activity_splash_screen.xml" value="0.8193069306930693" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout-xhdpi/activity_splash_screen.xml" value="0.5265625" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout-xxhdpi/activity_splash_screen.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout-xxxhdpi/activity_splash_screen.xml" value="0.26328125" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/layout/activity_splash_screen.xml" value="1.5" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/menu/main_menu.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/menu/note_menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/behnam/AndroidStudioProjects/NOTED---Notes-Application-for-Android/app/src/main/res/menu/quick_actions_menu.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

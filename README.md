@@ -1,5 +1,5 @@
 # NOTED - Don't Bother Remembering
-![NOTED logo](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/logo.png)
+![NOTED logo](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/logo.png)
 
 
 **NOTED - Don't Bother Remembering**
@@ -43,14 +43,14 @@ The app comes in with both, light and dark themes for visibility ease.
 
 
 
-![NOTED Screenshot1](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/1.png)
-![NOTED Screenshot2](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/2.png)
-![NOTED Screenshot3](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/3.png)
-![NOTED Screenshot4](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/4.png)
-![NOTED Screenshot5](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/5.png)
-![NOTED Screenshot6](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/6.png)
-![NOTED Screenshot7](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/7.png)
-![NOTED Screenshot8](https://github.com/seyed-sabbagh/MaterialDesignDemo/blob/master/pictures/8.png)
+![NOTED Screenshot1](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/1.png)
+![NOTED Screenshot2](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/2.png)
+![NOTED Screenshot3](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/3.png)
+![NOTED Screenshot4](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/4.png)
+![NOTED Screenshot5](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/5.png)
+![NOTED Screenshot6](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/6.png)
+![NOTED Screenshot7](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/7.png)
+![NOTED Screenshot8](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/8.png)
 
 
 

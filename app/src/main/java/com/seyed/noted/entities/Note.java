@@ -1,3 +1,11 @@
+/*
+ * *
+ *  * Created by seyed on 8/4/21, 1:42 PM
+ *  * Copyright (c) 2021 . All rights reserved.
+ *  * Last modified 8/4/21, 12:35 PM
+ *
+ */
+
 package com.seyed.noted.entities;
 
 import androidx.annotation.NonNull;

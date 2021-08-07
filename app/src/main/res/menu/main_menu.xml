@@ -13,28 +13,28 @@
 
         <item
             android:id="@+id/menu_add_note"
-            android:title="Add Note"
+            android:title="@string/add_note"
             android:icon="@drawable/ic_add_outline"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="100"/>
 
         <item
             android:id="@+id/menu_add_image"
-            android:title="Add Image"
+            android:title="@string/add_image"
             android:icon="@drawable/ic_image"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="200"/>
 
         <item
             android:id="@+id/menu_add_voice"
-            android:title="Add Voice Note"
+            android:title="@string/add_voice_note"
             android:icon="@drawable/ic_voice"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="300"/>
 
         <item
             android:id="@+id/menu_add_url"
-            android:title="Add URL"
+            android:title="@string/add_url"
             android:icon="@drawable/ic_web_link"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="400"/>
@@ -44,14 +44,14 @@
             android:icon="@drawable/ic_menu_app_theme"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="500"
-            android:title="App Theme" />
+            android:title="@string/app_theme" />
 
         <item
             android:id="@+id/menu_app_info"
             android:icon="@drawable/ic_info"
             android:iconTint="@color/colorPrimaryDark"
             android:orderInCategory="600"
-            android:title="App Info" />
+            android:title="@string/app_info" />
 
 
 

@@ -27,6 +27,7 @@
         tools:ignore="ScopedStorage" />
 
     <application
+        android:configChanges="locale"
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:fullBackupOnly="false"
@@ -34,11 +35,10 @@
         android:label="@string/app_name"
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/app_logo_round"
-        android:supportsRtl="true"
+        android:supportsRtl="false"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning"
-        tools:replace="android:icon, android:allowBackup"
-        tools:targetApi="q">
+        tools:replace="android:icon, android:allowBackup">
         <activity
             android:name="com.seyed.noted.SplashScreenActivity"
             android:screenOrientation="portrait"
